@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luke Kelly</h1>
 <h3 align="center">Student at Staffordshire University | BSc (Hons) Games development Course</h3>
 
-<p align="left"> <a href="https://twitter.com/lukekellygdev" target="blank"><img src="https://img.shields.io/twitter/follow/lukekellygdev?logo=twitter&style=for-the-badge" alt="lukekellygdev" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lukekellygdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lukekellygdev" height="30" width="40" /></a>
