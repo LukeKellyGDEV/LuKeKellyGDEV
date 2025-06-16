@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke Kelly</h1>
-<h3 align="center">Student at Staffordshire University | BSc (Hons) Games development Course</h3>
+<h3 align="center">Graduate at Staffordshire University | BSc (Hons) Games development Course</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
